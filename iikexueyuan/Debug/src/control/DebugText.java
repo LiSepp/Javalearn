@@ -13,6 +13,7 @@ public class DebugText {
 
 			}
 		} catch (Exception e) {
+			e.printStackTrace();
 			System.err.println("数组越界！");
 		}
 	}
