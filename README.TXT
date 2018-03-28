@@ -13,7 +13,7 @@
 
 
 * 2018年3月13日 10:01:18
-* 重新分配文件夹位置 thinking/ bycmd/ iikexueyuan/
+* 重新分配文件夹位置 thinking/ bycmd/ iikexueyuan
 
 
 
